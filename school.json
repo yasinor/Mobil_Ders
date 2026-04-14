@@ -1,0 +1,94 @@
+{
+  "OgretimElemanlari": [
+    {
+      "adi":"Mehmet Akbaba",
+      "sicil":1
+    },
+    {
+      "adi":"Umit Atila",
+      "sicil":2
+    },
+    {
+      "adi":"Yasin Ortakci",
+      "sicil":3
+    },
+    {
+      "adi":"Oguz Findik",
+      "sicil":4
+    }
+  ],
+  "Dersler": [
+    {
+      "Kodu":"BLM200",
+      "Adi":"Elektronik",
+      "OgretmenSicil":1,
+      "Kredisi":4
+    },
+    {
+      "Kodu":"BLM100",
+      "Adi":"Programlama",
+      "OgretmenSicil":2,
+      "Kredisi":6
+    },
+    {
+      "Kodu":"BLM300",
+      "Adi":"İsletim Sistemleri",
+       "OgretmenSicil":3,
+      "Kredisi":4
+    },
+    {
+      "Kodu":"BLM211",
+      "Adi": "Logic",
+      "OgretmenSicil":1,
+      "Kredisi":4
+    },
+    {
+      "Kodu":"BLM207",
+      "Adi":"Veri Yapilari",
+       "OgretmenSicil":4,
+      "Kredisi":4
+    },
+    {
+      "Kodu": "BLM101",
+      "Adi": "Matematik",
+      "OgretmenSicil":3,
+      "Kredisi":5
+    },
+    {
+      "Kodu":"BLM312",
+      "Adi":"Formal Diller",
+      "OgretmenSicil":4,
+      "Kredisi":3
+    },
+    {
+      "Kodu":"BLM410",
+      "Adi":"Yapay Zeka",
+      "OgretmenSicil":2,
+      "Kredisi":3
+    },
+    {
+      "Kodu":"BLM311",
+      "Adi":"Mikroislemciler",
+       "OgretmenSicil":1,
+      "Kredisi":4
+    },
+    {
+      "Kodu":"BLM408",
+      "Adi":"Paralel Programlama",
+       "OgretmenSicil":4,
+      "Kredisi":3
+    },
+    {
+      "Kodu":"BLM305",
+      "Adi":"Sayısal Analiz",
+       "OgretmenSicil":3,
+      "Kredisi":4
+    },
+    {
+      "Kodu":"BLM203",
+      "Adi":"Veri Tabani",
+       "OgretmenSicil":2,
+      "Kredisi":5
+    }
+  ]
+}

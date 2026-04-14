@@ -1,0 +1,22 @@
+[  
+      {
+        "il": "Adana",
+        "plaka": 1,
+         "resim": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/adana.jpg"
+      },
+      {
+        "il": "Antalya",
+        "plaka": 7,
+        "resim": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/antalya.jpg"
+      },
+      {
+        "il": "Hatay",
+        "plaka": 31,
+        "resim": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/hatay.jpg"
+      },
+      {
+        "il": "Isparta",
+        "plaka": 32,
+        "resim": "http://web.karabuk.edu.tr/yasinortakci/dokumanlar/web_dokumanlari/isparta.jpg"
+      }    
+ ]
